@@ -1,2 +1,2 @@
-# kafka-learning
-Repository to record kafka learning
+# kafka-demo
+Repository to record kafka demo
